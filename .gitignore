@@ -1,0 +1,92 @@
+# Jupyter Notebook checkpoints
+huggingface_cache/
+
+.ipynb_checkpoints/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.clss
+
+# Jupyter Notebook metadata
+*.nbconvert.ipynb
+*.nbstripout.ipynb
+
+# Ignore virtual environment directories
+env/
+venv/
+ENV/
+.venv/
+.ENV/
+
+# Ignore specific file types
+*.log
+*.out
+*.aux
+*.tmp
+*.temp
+*.~*
+
+# Ignore directories and files created by editors and IDEs
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Ignore directories and files created by Jupyter extensions
+.jupyter/
+.local/
+
+# Ignore files related to Python packaging
+*.egg-info/
+*.egg
+*.manifest
+*.spec
+
+# Ignore compiled Python files
+*.pyo
+*.pyd
+*.so
+*.dll
+
+# Ignore coverage and test-related files
+.coverage
+coverage.xml
+nosetests.xml
+test-results/
+
+# Ignore macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Ignore Windows system files
+Thumbs.db
+Desktop.ini
+
+# Ignore backup files
+*.bak
+*.swp
+*.swo
+*~
+
+# Ignore python bytecode
+__pycache__/
+*.py[cod]
+
+# Ignore pip related files
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Ignore Jupyter's configuration files
+.jupyter/
+
+# Ignore Anaconda distribution specific files
+anaconda3/
+miniconda3/
+
+# Ignore environment configuration files
+*.env
+
+# Ignore project specific config files
+.project/
