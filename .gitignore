@@ -90,3 +90,6 @@ miniconda3/
 
 # Ignore project specific config files
 .project/
+
+tweet_emotions.csv
+pytorch_checkpoints/
