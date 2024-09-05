@@ -72,10 +72,7 @@ To get started with the tutorials, follow the instructions below.
    git clone https://github.com/your-username/nlp-tutorials-huggingface-pytorch.git
    cd nlp-tutorials-huggingface-pytorch
 
-2. Install the required dependencies:
-```bash
-pip install -r requirements.txt
-```
+2. Install the required dependencies.
 
 ### Dataset
 Make sure to download and prepare the datasets as needed for the tutorials. Instructions for data preprocessing and setup are provided in the respective notebooks.
