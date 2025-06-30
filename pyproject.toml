@@ -1,0 +1,13 @@
+[project]
+name = "su25-cs4650-7650-gatech-nlp-pytorch-huggingface-tutorial"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "torch",
+    "transformers",
+    "datasets",
+    "huggingface-hub",
+]
+

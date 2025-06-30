@@ -93,3 +93,16 @@ miniconda3/
 
 tweet_emotions.csv
 pytorch_checkpoints/
+
+
+
+# Ignore bash script
+bash.sh
+.venv/* 
+.tasks/*
+.prompts/*
+.trash/* 
+
+
+
+
