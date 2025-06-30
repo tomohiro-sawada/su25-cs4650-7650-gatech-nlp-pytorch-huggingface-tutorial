@@ -104,6 +104,8 @@ bash.sh
 .trash/* 
 .cursor/*
 *toc*
+pdf/*
 
 copy.ipynb
 
+cache_dir/*

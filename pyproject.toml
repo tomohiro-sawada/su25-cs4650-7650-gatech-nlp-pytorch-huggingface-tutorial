@@ -12,5 +12,6 @@ dependencies = [
     "jupyter",
     "ipykernel",
     "sentence-transformers",
+    "evaluate",
 ]
 
