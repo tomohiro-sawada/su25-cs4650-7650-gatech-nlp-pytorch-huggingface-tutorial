@@ -102,7 +102,9 @@ bash.sh
 .tasks/*
 .prompts/*
 .trash/* 
+.cursor/*
+*toc*
 
-
-
+huggingface.ipynb
+copy.ipynb
 

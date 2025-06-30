@@ -9,5 +9,8 @@ dependencies = [
     "transformers",
     "datasets",
     "huggingface-hub",
+    "jupyter",
+    "ipykernel",
+    "sentence-transformers",
 ]
 
