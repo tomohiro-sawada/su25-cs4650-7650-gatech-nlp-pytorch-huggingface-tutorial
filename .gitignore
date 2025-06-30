@@ -104,7 +104,6 @@ bash.sh
 .trash/* 
 .cursor/*
 *toc*
-pdf/*
 
 copy.ipynb
 
