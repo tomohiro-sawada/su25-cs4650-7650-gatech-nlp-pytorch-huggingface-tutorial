@@ -106,5 +106,11 @@ bash.sh
 *toc*
 
 copy.ipynb
+hf_copy.ipynb
+pt_copy.ipynb
 
 cache_dir/*
+
+.cursorignore 
+
+
